@@ -1,3 +1,5 @@
+https://natmiji.github.io/Get-Meme/
+
 **Are you ready to embark on a journey to learn JavaScript in no time and build something fun and interactive?** In this blog, I'll guide you through creating a simple get Meme app *(inspired by Joan Cornella’s art)* using HTML, CSS, JavaScript, APIs and Bootstrap. - *Beginner friendly.*
 
 - Search for [Public APIs](https://github.com/public-apis/public-apis?tab=readme-ov-file#animals) and choose interested one (e.g. food recipes, city maps, memes). Research the possibility and complexity through YouTube video tutorials, Web3 and GitHub. Next, search for UX and UI inspiration on Instagram or TikTok.
