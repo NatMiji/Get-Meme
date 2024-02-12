@@ -12,4 +12,4 @@
 
 *To build a strong foundation in HTML, CSS and JS, consider investing 2-3 months of consistent learning.* **Anyway, let’s get started!**
 
-More info. https://www.notion.so/natpianthum/Learn-JavaScript-in-No-Time-Building-Get-Meme-using-public-APIs-abd04cb3d9d040a79f546955a7188bf4
+Please check out [my Notion](https://www.notion.so/natpianthum/Learn-JavaScript-in-No-Time-Building-Get-Meme-using-public-APIs-abd04cb3d9d040a79f546955a7188bf4) page for a detailed, step-by-step guide on how to build get meme app.
